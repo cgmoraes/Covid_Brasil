@@ -1,3 +1,5 @@
-<h1 align="center"> Projeto Covid Brasil </h1>
+<h1 align="center"> Projeto de Análise de Progressão da COVID </h1>
 
-O dataset pode ser obtido a partir do endereço: https://ourworldindata.org/explorers/coronavirus-data-explorer
+Projeto com intuito de utilizar práticas de ETL com pyspark bem como a manipulação de dados de forma a trazer informações que possam ser interessantes de serem apresentadas
+
+O dataset pode ser obtido em: https://ourworldindata.org/explorers/coronavirus-data-explorer
