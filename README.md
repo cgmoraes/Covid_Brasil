@@ -12,7 +12,7 @@ Após feito a instalação e efetuado o login, é possível acessar a imagem Doc
 docker pull jupyter/pyspark-notebook
 ```
 
-E assim que executado a imagem é possível, então, ter acesso ao container executando, no terminal, o seguinte comando:
+E, assim que executado a imagem, é possível, então, ter acesso ao container executando, no terminal, o seguinte comando:
 
 ```
 docker run -it -p 8888:8888 jupyter/pyspark-notebook
