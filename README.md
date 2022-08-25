@@ -5,6 +5,7 @@ Projeto com intuito de utilizar práticas de ETL com pyspark, bem como a manipul
 ## Instalação
 
 O projeto foi desenvolvido a partir de um container em [Docker](https://www.docker.com/resources/what-container) e o primeiro passo foi a instalação do [Docker Hub](https://hub.docker.com/). 
+
 Após feito a instalação e efetuado o login, é possível acessar a imagem Docker para Pyspark executando o comando:
 
 ```
